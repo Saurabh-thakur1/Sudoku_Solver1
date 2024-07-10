@@ -1,7 +1,3 @@
-// C++ Program to Solve Sudoku Problem
-// Concept Use Recursion and Backtracking
-// 						 By - Harsh Anand
-
 #include <iostream>
 #include <fstream>
 using namespace std;
